@@ -1,0 +1,12 @@
+{
+  "name": "essoil",
+  "displayName": "essoil",
+  "expo": {
+    "name": "essoil",
+    "slug": "essoil",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
